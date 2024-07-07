@@ -7,10 +7,15 @@ Kharthika sarees has been planned to  open E-commerce site to increase their sal
 ![image](https://github.com/Kathirvel-Sivakumar/business-analytics-of-kharthika-sarees-sales-data-/assets/172508505/fd41a2c1-6b01-4a8f-a32b-bd74fdd00829)
 ## INSIGHTS PROVIDED:
 •	From the visualization dashboard , it is identified that most of the sales has been done in Tamilnadu and it is advised that company should focus on other states also to increase their sales.
+
 •	From the dashboard , it is identified that their highest sales customer is PSR silks.
+
 •	From the dashboard , it is identified that sarees is the moving product and most sold product and it is advised to focus on chudidhars also to increase their sales.
+
 •	From the dashboard , it is identified that their most moving and most sold type of sarees and chudidhars is silk cotton and pure silk.
+
 •	They should also focus on other materials to increase their sales.
+
 •	From the dashboard, it is identified that there is only average sales done to local customers , if the E-commerce is established then there will be a good sales in local customers.
 ## CONCLUSION:
 From the analysis of Kharthika sarees sales data , it is advised to focus on other states and countries to increase their sales and also advised to introduce many type of products to increase their sales and  also it is advised to open an    E-commerce site to increase their sales.
